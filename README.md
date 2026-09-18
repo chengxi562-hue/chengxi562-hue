@@ -6,7 +6,7 @@
 把业务问题拆成可执行的流程，再用 AI 编程工具实现出来。
 关键是让它**出错时主动喊出来**，而不是静默地交给我一份看起来正常的错误答案。
 
-**作品集** → [scott-portfolio.app.workbuddy.host](https://yichengxi.app.workbuddy.host/)  ｜ **LinkedIn** → [chengxi-yi](https://www.linkedin.com/in/chengxi-yi-452460428/)
+**作品集** → [yichengxi.app.workbuddy.host](https://yichengxi.app.workbuddy.host/)  ｜ **LinkedIn** → [chengxi-yi](https://www.linkedin.com/in/chengxi-yi-452460428/)
 
 ---
 
