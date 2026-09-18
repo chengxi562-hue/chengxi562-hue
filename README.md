@@ -1,16 +1,26 @@
-## Hi there 👋
+### 弋承熙 · Scott Yi
 
-<!--
-**chengxi562-hue/chengxi562-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+市场营销 × 金融科技 · 西南财经大学 2027 届 · 成都
 
-Here are some ideas to get you started:
+我不写代码。我定义规则、设计验收标准，并对系统产出的每一条结论负责——
+把业务问题拆成可执行的流程，再用 AI 编程工具实现出来。
+关键是让它**出错时主动喊出来**，而不是静默地交给我一份看起来正常的错误答案。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**作品集** → [scott-portfolio.app.workbuddy.host](https://scott-portfolio.app.workbuddy.host/)
+
+---
+
+#### 在做的事
+
+| 项目 | 说明 |
+| --- | --- |
+| [scott-portfolio](https://github.com/chengxi562-hue/scott-portfolio) | 个人求职作品集站点源码 |
+| 智能投研系统 | 18 阶段数据管线、124 项自动化校验规则；每交易日自动产出简报 |
+| 抖音观点知识库管线 | 464 个视频 → 5,439 条带原文引用的结构化观点 |
+| 多模型 AI 网关 | 7 家模型收敛到一套协议，调用落库记账、预算超限自动拦截 |
+
+#### 方向
+
+市场营销 · 金融科技 · 海外市场（校招 / 管培生）｜意向深圳、广州
+
+<sub>业务规则由我定义 · 实现交给工具 · 结果由我负责</sub>
