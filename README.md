@@ -1,26 +1,30 @@
-### 弋承熙 · Scott Yi
+# Hi, I'm Chengxi — 弋承熙
 
-市场营销 × 金融科技 · 西南财经大学 2027 届 · 成都
+![A window into Chengxi's work — AI-generated personal illustration](https://yichengxi.cn/assets/curiosity-window.png)
 
-我不写代码。我定义规则、设计验收标准，并对系统产出的每一条结论负责——
-把业务问题拆成可执行的流程，再用 AI 编程工具实现出来。
-关键是让它**出错时主动喊出来**，而不是静默地交给我一份看起来正常的错误答案。
+I study marketing in the SWUFE–Audencia joint programme, with a focus on financial services. I'm interested in how people make decisions, how businesses work, and where AI can make a practical difference.
 
-**作品集** → [yichengxi.app.workbuddy.host](https://yichengxi.app.workbuddy.host/)  ｜ **LinkedIn** → [chengxi-yi](https://www.linkedin.com/in/chengxi-yi-452460428/)
+I turn questions from my own work into small tools. My contribution is defining the problem, designing the workflow and checking the results; AI coding tools support the implementation.
+
+[Personal website](https://yichengxi.cn/) · [LinkedIn](https://www.linkedin.com/in/chengxi-yi-452460428/)
+
+## Tools you can try
+
+Both tools have Chinese interfaces, run in your browser and require no account or API key.
+
+| Tool | What you can take away | Explore |
+| --- | --- | --- |
+| **循据 · Evidence Brief** | A research brief that keeps claims, source excerpts and unresolved questions together. | [Try it](https://yichengxi.cn/tools/evidence-brief/) · [Source & guide](https://github.com/chengxi562-hue/scott-portfolio/tree/main/tools/evidence-brief) |
+| **协作计划设计器 · Task Brief** | A complete handoff record: the task, actual plan and draft, review notes and your own acceptance decisions. | [Try it](https://yichengxi.cn/tools/task-brief/) · [Source & guide](https://github.com/chengxi562-hue/scott-portfolio/tree/main/tools/task-brief) |
+
+These tools organise your work. They do not call a model, verify a claim automatically or execute a task for you.
+
+## Work in progress
+
+My personal research and knowledge workflows are local projects. I share their methods and limits as case studies on my website; the private systems and source materials are not public products.
+
+Outside projects, I make time for cycling, music and volunteering.
 
 ---
 
-#### 在做的事
-
-| 项目 | 说明 |
-| --- | --- |
-| [scott-portfolio](https://github.com/chengxi562-hue/scott-portfolio) | 个人求职作品集站点源码 |
-| 智能投研系统 | 18 阶段数据管线、124 项自动化校验规则；每交易日自动产出简报 |
-| 抖音观点知识库管线 | 464 个视频 → 5,439 条带原文引用的结构化观点 |
-| 多模型 AI 网关 | 7 家模型收敛到一套协议，调用落库记账、预算超限自动拦截 |
-
-#### 方向
-
-市场营销 · AI 应用 · 商业分析｜实习与校招｜意向深圳、广州
-
-<sub>业务规则由我定义 · 实现交给工具 · 结果由我负责</sub>
+**中文**：市场营销在读，关注金融服务、商业研究与 AI 应用。这里分享可以使用的小工具，也记录仍在探索的个人实践。项目的问题定义、流程设计与结果核对由我负责，AI 编程工具协助实现。
